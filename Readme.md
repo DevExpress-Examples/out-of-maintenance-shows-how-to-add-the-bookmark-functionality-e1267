@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/E1267/Form1.cs) (VB: [Form1.vb](./VB/E1267/Form1.vb))
+* [GridViewBookmarks.cs](./CS/E1267/GridViewBookmarks.cs) (VB: [GridViewBookmarks.vb](./VB/E1267/GridViewBookmarks.vb))
+* [Program.cs](./CS/E1267/Program.cs) (VB: [Program.vb](./VB/E1267/Program.vb))
+<!-- default file list end -->
 # Shows how to add the bookmark functionality
 
 
